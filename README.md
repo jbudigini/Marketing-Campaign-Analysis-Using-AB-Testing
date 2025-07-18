@@ -45,15 +45,29 @@ As a marketing agency, our objective is to maximize the return on investment (RO
 - Perform statistical tests (e.g., t-tests) to assess the significance of any performance differences between the campaigns.
 
 **4. Conclusion**: Identify which campaign is more effective based on statistical evidence.
----
-
-## ✅ Key Insights
-- **Facebook outperforms AdWords** in both conversion volume and efficiency.
-- **Clicks on Facebook ads are highly predictive** of conversions.
-- **Midweek and end-of-year periods** are optimal for campaign launches.
-- **May and November** offer the best ROI based on cost-per-conversion trends.
-- Strong evidence of a **long-term relationship** between ad spend and conversions.
 
 ---
+
+## 📑 Key Findings
+
+**Conversion Performance:**  
+- Facebook Ads generated a significantly higher number of conversions compared to AdWords.  
+- Hypothesis testing confirmed this difference is statistically significant (p-value ≪ 0.05).  
+- Facebook consistently delivered high-conversion days (10–15+ conversions), while AdWords conversions remained mostly below 10.
+
+**Cost Efficiency:**  
+- Facebook had a lower average cost per conversion across multiple months.  
+- May and November were the most cost-effective months, while February and March had the highest CPC.
+
+**User Engagement:**  
+- Facebook Ads showed a strong correlation (r = 0.83) between clicks and conversions, indicating reliable conversion performance as engagement increases.  
+- AdWords showed only a moderate correlation (r = 0.45), suggesting other factors may affect its conversion outcomes.
+
+**Long-Term Impact:**  
+- Cointegration analysis confirmed a long-term equilibrium relationship between Facebook ad cost and conversions, indicating that changes in ad spend have a stable, proportional effect on conversion volume over time.
+
+---
+
+
 
 
